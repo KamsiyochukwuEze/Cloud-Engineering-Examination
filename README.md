@@ -17,6 +17,7 @@ can connect and collaborate on projects.
    sudo mkdir -p /var/www/index
    sudo nano /var/www/index/index.html
    ```
+   <img src "">
 
 5. :art: Added a stylesheet (style.css)
    ```bash
